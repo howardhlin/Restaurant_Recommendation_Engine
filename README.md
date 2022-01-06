@@ -1,1 +1,1 @@
-# Restaurant_Recommendation_Engine
+The competitiveness of the social media market and the vast choices of online review platform have urged websites like Yelp.com to find a more advance algorithm to target their customer. Therefore, in this project, my teammates and I aimed to introduce a recommendation engine that could more accurately target users for the local merchants. Given a business name, our algorithm generates a list of users as ad audience for that business. The algorithm is based on clustering and content-based filtering.
