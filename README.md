@@ -1,4 +1,4 @@
-The highly competitive social media market and the vast choices of online review platforms have urged websites like Yelp.com to find a more advanced algorithm to target their customer. In this project, my teammates and I aimed to introduce a recommendation engine for Yelp that could more accurately target users for the local merchants. Given a business name, our algorithm generates a list of users as ad audience for that business. The algorithm is based on clustering and content-based filtering.
+The highly competitive social media market and the vast choices of online review platforms have urged websites like Yelp.com to find a more advanced algorithms to target their customers. In this project, my teammates and I introduced a recommendation engine for Yelp that could more accurately target users for the local merchants. Our engine generates a targeted list of users for a specific business based on clustering and content-based filtering.
 
 Data source: https://www.yelp.com/dataset/download
 
