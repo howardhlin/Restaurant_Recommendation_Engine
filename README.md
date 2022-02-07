@@ -1,3 +1,7 @@
+# Restaurant_Recommendation_System
+
+Contributor: Hsuan-Hao (Howard) Lin, Xianqian (Sarah) Yang, Biao Zhang, Xueyi Zhu, Zheyu (Jane) Han
+
 The highly competitive social media market and the vast choices of online review platforms have urged websites like Yelp.com to find more advanced algorithms to target their customers. In this project, my teammates and I introduced a recommendation engine for Yelp that could more accurately target users for the local merchants. Our engine generates a targeted list of users for a specific business based on clustering and content-based filtering.
 
 Data source: https://www.yelp.com/dataset/download
